@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 📌 Open to: Internships & collaborations in Backend Development & Cloud Computing.
 
 💡 Let's connect!
-🔗 linkedin.com/in/srujana-challuri-b63b18160 | 🔗 https://github.com/srujanachalluri
+🔗 https://www.linkedin.com/in/srujana-challuri-b63b18160 | 🔗 https://github.com/srujanachalluri
