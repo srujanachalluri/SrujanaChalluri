@@ -13,18 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
-👩‍💻 Backend Developer | Python | Node.js | Cloud Computing
+# 👋 Hi, I'm Srujana Challuri!  
 
-🔹 Passionate about building scalable backend systems and API integrations.
-🔹 Experienced in Python, Node.js, MQ, ACE (App Connect Enterprise), Java.
-🔹 Enthusiastic about Cloud Computing, DevOps, and System Design.
-🔹 Former Python MQ ACE Integration Developer at Accenture.
-🔹 Master’s student in Computer Information Systems at Concordia University Wisconsin.
+🚀 **Backend Developer | Python | Java | Node.js | Cloud Computing**  
+🔹 Passionate about scalable backend systems, APIs, and cloud solutions.  
+🔹 Former **Python MQ ACE Integration Developer** at Accenture.  
+🔹 Master's Student in **Computer Information Systems** @ Concordia University Wisconsin.  
 
-📌 Currently exploring: Backend Development with Node.js, Cloud Technologies, and DevOps.
-📌 Projects: MCTS Notification System | Hackathon Project
-📌 Open to: Internships & collaborations in Backend Development & Cloud Computing.
+## 🔧 Skills  
+💻 **Languages**: Python, Java, JavaScript, ESQL, HTML, CSS 
+⚙️ **Backend**: Node.js, Express.js, REST APIs, MQ, ACE  
+☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes  
+🛠 **Databases**: MySQL, PostgreSQL, MongoDB  
+📈 **Tools**: Git, GitHub, VS Code, Postman  
 
-💡 Let's connect!
-🔗 https://www.linkedin.com/in/srujana-challuri-b63b18160 | 🔗 https://github.com/srujanachalluri
+## 📂 Featured Projects  
+🔹 [**MCTS Notification System**](#) – Real-time bus tracking with notifications 📍🚍  
+🔹 [**Hackathon Project**](#) – Built using .NET & Visual Studio  
+🔹 [**Deepfake Analysis**](#) – Ethical implications of AI-generated content  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srujana-challuri-b63b18160)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/srujanachalluri)  
+
