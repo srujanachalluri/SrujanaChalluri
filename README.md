@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🔹 Master's Student in **Computer Information Systems** @ Concordia University Wisconsin.  
 
 ## 🔧 Skills  
-💻 **Languages**: Python, Java, JavaScript, ESQL, HTML, CSS 
+💻 **Languages**: Python, Java, JavaScript, ESQL, HTML, CSS  
 ⚙️ **Backend**: Node.js, Express.js, REST APIs, MQ, ACE  
 ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes  
 🛠 **Databases**: MySQL, PostgreSQL, MongoDB  
