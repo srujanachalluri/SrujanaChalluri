@@ -16,7 +16,7 @@
 
 <br/>
 <div align="center">
-  <img src="./sruj.jpg" width="150" height="150"/>
+  <img src="./sruj.jpg" width="300" height="300"/>
 </div>
 ---
 
