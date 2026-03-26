@@ -14,9 +14,9 @@
   <img src ="./DESIGN.png" />
 </div>
 
- <br/>
- <div align="center">
-<img src ="./sruj.jpg" />
+<br/>
+<div align="center">
+  <img src="./sruj.jpg" width="150" height="150"/>
 </div>
 ---
 
