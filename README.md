@@ -13,11 +13,6 @@
 <div align="center">
   <img src ="./DESIGN.png" />
 </div>
-
-<br/>
-<div align="center">
-  <img src="./sruj.jpg" width="300" height="300"/>
-</div>
 ---
 
 ### 🙋‍♀️ About Me
