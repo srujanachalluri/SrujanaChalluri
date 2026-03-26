@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srujana Challuri</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Software Developer</h3>
+<a href="https://master-portfolio-rho.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-Live%20Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Application+Builder+%F0%9F%A4%96;Cloud+%26+Microservices+Engineer+%E2%98%81%EF%B8%8F;MS+Computer+Science+%7C+GPA+4.0+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
