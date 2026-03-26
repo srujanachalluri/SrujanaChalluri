@@ -10,6 +10,17 @@
   <img src="https://img.shields.io/github/followers/srujanachalluri?label=Followers&style=flat&color=6A0DAD" alt="followers" />
 </p>
 
+<div align="center">
+  <img src ="./DESIGN.png" />
+  
+</div>
+
+ <br/>
+
+ <div align="center">
+  <img src ="./sruj.jpg" />
+  
+</div>
 ---
 
 ### 🙋‍♀️ About Me
