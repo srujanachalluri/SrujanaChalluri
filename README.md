@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srujana Challuri</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cloud & Microservices Engineer</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Application+Builder+%F0%9F%A4%96;Cloud+%26+Microservices+Engineer+%E2%98%81%EF%B8%8F;MS+Computer+Science+%7C+GPA+4.0+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -12,14 +12,11 @@
 
 <div align="center">
   <img src ="./DESIGN.png" />
-  
 </div>
 
  <br/>
-
  <div align="center">
-  <img src ="./sruj.jpg" />
-  
+<img src ="./sruj.jpg" />
 </div>
 ---
 
@@ -27,7 +24,7 @@
 
 - 🎓 **Master's in Computer Science** @ Concordia University, Milwaukee (GPA: **4.0**)  
 - 💼 **3+ years** of professional experience at **Accenture** building cloud-native microservices & APIs  
-- 🤖 Independently built **3 full-stack AI applications** using React, FastAPI, Groq AI & Firebase  
+- 🤖 Independently built **3 full-stack AI applications** using Python, Java, React, FastAPI, Groq AI & Firebase  
 - 🚀 Delivered **$3M+ in cost savings** through platform migrations and automation at enterprise scale  
 - 🐍 Built Python automation scripts processing **1,000+ podcast episodes**, saving 15+ hours/week  
 - 📫 Reach me at **srujanachalluri@gmail.com**  
@@ -113,17 +110,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [AI Resume Builder](https://github.com/srujanachalluri) &nbsp; | &nbsp; `React` `Groq AI (Llama 3.3 70B)` `Firebase` `Vite` `Vercel`
+#### 🧠 [AI Resume Builder](https://ai-resume-builder-iota-five.vercel.app/) &nbsp; | &nbsp; `React` `Groq AI (Llama 3.3 70B)` `Firebase` `Vite` `Vercel`
 > Paste a job description + your resume → AI rewrites it with **ATS scoring & keyword gap analysis**. Features PDF export, Google OAuth, Firebase history, and a free API key fallback system.
 
 ---
 
-#### 🎤 [AI Interview Coach](https://github.com/srujanachalluri) &nbsp; | &nbsp; `React` `FastAPI` `Groq AI` `Firebase` `Render`
+#### 🎤 [AI Interview Coach](https://ai-interview-coach-roan.vercel.app/) &nbsp; | &nbsp; `React` `FastAPI` `Groq AI` `Firebase` `Render`
 > Full-stack interview prep tool generating role-specific questions across **6 categories**. AI scores answers 1–10 with strengths, improvements & model answers. Includes PDF session reports & progress dashboard.
 
 ---
 
-#### 💬 [ChatSuite](https://github.com/srujanachalluri) &nbsp; | &nbsp; `React` `Firebase Firestore` `Gemini AI` `Framer Motion`
+#### 💬 [ChatSuite](https://chatsuite-psi.vercel.app/) &nbsp; | &nbsp; `React` `Firebase Firestore` `Gemini AI` `Framer Motion`
 > Real-time Slack-like collaboration platform with Google OAuth, group channels, DMs, emoji reactions, and sub-100ms message delivery — plus a built-in **AI assistant powered by Gemini AI**.
 
 ---
