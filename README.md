@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./DESIGN.png" alt="Srujana Challuri — Software Engineer | AI & ML Enthusiast" />
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+Application+Builder;Cloud+%26+Microservices+Engineer" alt="Typing SVG" />
