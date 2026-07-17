@@ -9,8 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=srujanachalluri&label=Profile%20views&color=6A0DAD&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/srujanachalluri"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:srujanachalluri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://master-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://github.com/srujanachalluri"><img src="https://img.shields.io/github/followers/srujanachalluri?label=Follow&style=social" /></a>
+    
+<!--
+<a href="https://master-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+-->
+    
 </p>
 
 ---
